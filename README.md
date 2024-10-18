@@ -1,97 +1,45 @@
-# Hello, I'm Sadekur Rahman! 👋
 
-Welcome to my GitHub profile! I'm a passionate WordPress developer with a strong background in web technologies and a deep commitment to building user-focused solutions. Here's a quick overview of my skills and what I love to work on.
+[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif]]
 
-## 🚀 Skills
+<h1 align="center">Hi 👋, I'm Sadekur Rahman</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate WordPress developer with a strong background in web technologies and a deep commitment to building user-focused solutions. Here's a quick overview of my skills and what I love to work on.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadekur&label=Profile%20views&color=0e75b6&style=flat" alt="sadekur" /> </p>
 
--   **Frontend Development**: HTML, CSS, SCSS, Tailwind, JavaScript (ES6+), jQuery, React.js, Next.js
--   **Backend Development**: PHP, Object-Oriented Programming (OOP)
--   **Database Management**: MySQL
--   **CMS**: WordPress (Theme and Plugin Development)
--   **Version Control**: Git
--   **Headless CMS**: Headless WordPress
--   **APIs**: RESTful Services
--   **Tools**: Git, Webpack, Babel, npm
+<p align="left"> <a href="https://twitter.com/rahman_shadekur" target="blank"><img src="https://img.shields.io/twitter/follow/rahman_shadekur?logo=twitter&style=for-the-badge" alt="rahman_shadekur" /></a> </p>
 
-## 📦 Projects
+- 🔭 I’m currently working on **Track Back**
 
-Below are some of the projects I've worked on. Feel free to check them out:
+- 🌱 I’m currently learning **React and Redux Toolkit, Headless CMS with WordPress,Gulp & Webpack,Gatsby and GraphQL,APIs,Vue with WordPress,Next.js & Nuxt.js,Flutter & Dart,Python**
 
--   **[Thrail Commerce]**: A custom WordPress plugin built using php, React, Tailwind and the WordPress REST API. ([View Repository](https://github.com/sadekur/thrail-commerce))
--   **[Thrail CRM]**: A WordPress plugin that enhances Customer relationship management capabilities for WordPress. ([View Repository](https://github.com/sadekur/thrail-crm))
-    And more!
+- 👨‍💻 All of my projects are available at [https://github.com/sadekur](https://github.com/sadekur)
 
-## 📘 Blog Posts
+- 💬 Ask me about **HTML, CSS, SCSS, PHP, Tailwind, JavaScript (ES6+), jQuery, React.js, Next.js, Version Control, Headless CMS, APIs**
 
-<!-- I regularly write about modern web development practices and WordPress insights. Here are a few recent posts:
+- 📫 How to reach me **shadekur.rahman60@gmail.com**
 
--   "How to Integrate React with WordPress" ([Read Post](#))
--   "Advanced SCSS Tips for Theme Development" ([Read Post](#))
--   "Optimizing MySQL Queries for WordPress Plugins" ([Read Post](#)) -->
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
 
-## 📫 How to Reach Me
+- ⚡ Fun fact **I'm Funny**
 
--   **LinkedIn**: [Sadekur Rahman](https://www.linkedin.com/in/sadekur-rahman-soikut)
--   **Twitter**: [Sadekur Rahman](https://twitter.com/rahman_shadekur)
--   **GitHub**: [Sadekur Rahman](https://github.com/sadekur)
--   **Facebook**: [sadekurrahman.com](https://www.facebook.com/shadkur.rahman.soikut/)
--   **Email**: [shadekur.rahman60@gmail.com](mailto:shadekur.rahman60@gmail.com)
-
-## 💻 Languages and Tools:
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rahman_shadekur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahman_shadekur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadekur-rahman-soikut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadekur-rahman-soikut" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sadekur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadekur-rahman" height="30" width="40" /></a>
+<a href="https://fb.com/shadkur.rahman.soikut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadkur.rahman.soikut" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sadekrrahman7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadekrrahman7893" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shadekur_rahman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadekur_rahman1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user0756cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0756cg" height="30" width="40" /></a>
 </p>
 
-## 🔍 Currently Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-I'm dedicated to continuously improving my skills and keeping up with the latest industry trends. Here's what I'm currently focused on learning more deeply:
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee sadekur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee sadekur" /></a></p><br><br>
 
--   **React and Redux Toolkit**: Enhancing my React applications by efficiently managing state with Redux Toolkit for more predictable state management and optimized rendering.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p>
 
--   **Headless CMS with WordPress**: Exploring headless CMS architectures using WordPress to create more flexible and scalable web applications.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
 
--   **Gatsby and GraphQL**: Building modern web applications with Gatsby and GraphQL.
-
--   **Gulp & Webpack**: Building modern web applications with Gulp and Webpack.
-
--   **APIs**: Developing RESTful APIs with WordPress for more efficient data retrieval and manipulation.
-
--   **Vue with WordPress**: Integrating Vue.js into WordPress environments to leverage its reactive components in themes and plugins.
-
--   **Next.js & Nuxt.js**: Diving into the world of server-side rendering and static site generation with Next.js for React and Nuxt.js for Vue.js to build more performant web applications.
-
--   **Flutter & Dart**: Learning Flutter for cross-platform mobile application development with Dart as the programming language, aiming to build beautiful and natively compiled applications for mobile, web, and desktop from a single codebase.
-
--   **Python**: Expanding my backend development skills by learning Python, focusing on its powerful libraries for data analysis, machine learning, and web development.
-
-These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
-
-## 🤝 Contributing
-
-I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me!
-
-## 💼 Current Role
-
-I am a **Plugin Developer at Codexpert, Inc.**, where I specialize in crafting innovative WordPress plugins that enhance functionality and user experience. My work is characterized by:
-
--   **Plugin Development**: Focused on building robust WordPress plugins using PHP, with a keen eye for leveraging WordPress APIs for optimal performance and compatibility.
--   **Front-End Development**: Implementing cutting-edge front-end technologies including CSS, Tailwind, and React, to create responsive and dynamic user interfaces.
--   **WordPress Development**: Working on WordPress themes and plugins to enhance the user experience and functionality of WordPress.
-
-My role enables me to apply a blend of creativity and technical expertise, driving forward the development of web solutions that cater to the evolving needs of our clients.
-
-Thank you for visiting my profile! 🌟
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadekur&" alt="sadekur" /></p>
