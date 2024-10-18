@@ -84,7 +84,7 @@ These technologies are part of my journey to becoming a more versatile developer
 
 I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me!
 
-## 💼 Current Role at Codexpert, Inc.
+## 💼 Current Role
 
 I am a **Plugin Developer at Codexpert, Inc.**, where I specialize in crafting innovative WordPress plugins that enhance functionality and user experience. My work is characterized by:
 
