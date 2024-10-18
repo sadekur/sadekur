@@ -1,6 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif]]
-
+![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 <h1 align="center">Hi 👋, I'm Sadekur Rahman</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate WordPress developer with a strong background in web technologies and a deep commitment to building user-focused solutions. Here's a quick overview of my skills and what I love to work on.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadekur&label=Profile%20views&color=0e75b6&style=flat" alt="sadekur" /> </p>
