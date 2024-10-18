@@ -1,4 +1,3 @@
-
 ![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 <h1 align="center">Hi 👋, I'm Sadekur Rahman</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate WordPress developer with a strong background in web technologies and a deep commitment to building user-focused solutions. Here's a quick overview of my skills and what I love to work on.</h3>
@@ -12,7 +11,7 @@
 -   **Backend Development**: PHP, Object-Oriented Programming (OOP)
 -   **Database Management**: MySQL
 -   **CMS**: WordPress (Theme and Plugin Development)
--   **Version Control**: Git
+-   **Version Control**: Git, Bitbucket, GitHub
 -   **Headless CMS**: Headless WordPress
 -   **APIs**: RESTful Services
 -   **Tools**: Git, Webpack, Babel, npm
@@ -23,11 +22,11 @@ Below are some of the projects I've worked on. Feel free to check them out:
 
 -   **[Thrail Commerce]**: A custom WordPress plugin built using php, React, Tailwind and the WordPress REST API. ([View Repository](https://github.com/sadekur/thrail-commerce))
 -   **[Thrail CRM]**: A WordPress plugin that enhances Customer relationship management capabilities for WordPress. ([View Repository](https://github.com/sadekur/thrail-crm))
-    And more!
+-   **[And more....!]**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
+- 📄 **[Know about my experiences]** [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to Reach Me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahman_shadekur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahman_shadekur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadekur-rahman-soikut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadekur-rahman-soikut" height="30" width="40" /></a>
@@ -123,7 +122,7 @@ I'm dedicated to continuously improving my skills and keeping up with the latest
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
-## 💼 Current Role at Codexpert, Inc.
+## 💼 Current Role
 
 I am a **Plugin Developer at Codexpert, Inc.**, where I specialize in crafting innovative WordPress plugins that enhance functionality and user experience. My work is characterized by:
 
