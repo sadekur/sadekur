@@ -137,7 +137,7 @@ My role enables me to apply a blend of creativity and technical expertise, drivi
 I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me!
 
 <h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/buymeacoffee sadekur](https://buymeacoffee.com/sadekur)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee sadekur" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/sadekur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee sadekur" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p>
 
