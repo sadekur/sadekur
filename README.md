@@ -122,6 +122,9 @@ I'm dedicated to continuously improving my skills and keeping up with the latest
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
+🏆 Problem-Solving Profile
+[Codewars Profile]: View My Problem-Solving Journey
+
 ## 💼 Current Role
 
 I am a **Plugin Developer at Codexpert, Inc.**, where I specialize in crafting innovative WordPress plugins that enhance functionality and user experience. My work is characterized by:
