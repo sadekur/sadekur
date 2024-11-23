@@ -122,7 +122,7 @@ I'm dedicated to continuously improving my skills and keeping up with the latest
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
-<h2 align="center">🏆 Problem-Solving Profile</h2>
+<h2 align="left">🏆 Problem-Solving Profile</h2>
 <p align="center">
   <a href="https://www.codewars.com/users/sadekur" target="_blank" style="text-decoration:none;">
     <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Profile Badge" />
@@ -135,6 +135,13 @@ These technologies are part of my journey to becoming a more versatile developer
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="50" />
     <br>
     <strong>💡 HackerRank Profile</strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/user0756cG/" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile Badge" height="50" />
+    <br>
+    <strong>🧩 LeetCode Profile</strong>
   </a>
 </p>
 
