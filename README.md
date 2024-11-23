@@ -122,14 +122,19 @@ I'm dedicated to continuously improving my skills and keeping up with the latest
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
-<h3 align="left">🏆 Problem-Solving Profile</h3>
-<p align="left">
-  <a href="https://www.codewars.com/users/sadekur" target="_blank"> 
-    <img src="https://www.codewars.com/users/sadekur/badges/micro" alt="Codewars Profile Badge" />
-  </a> 
-  <a href="https://www.hackerrank.com/shadekur_rahman1" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="20"/> 
-    View My HackerRank Profile
+<h2 align="center">🏆 Problem-Solving Profile</h2>
+<p align="center">
+  <a href="https://www.codewars.com/users/sadekur" target="_blank" style="text-decoration:none;">
+    <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Profile Badge" />
+    <br>
+    <strong>🚀 Codewars Profile</strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.hackerrank.com/shadekur_rahman1" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="50" />
+    <br>
+    <strong>💡 HackerRank Profile</strong>
   </a>
 </p>
 
