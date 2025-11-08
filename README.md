@@ -131,7 +131,7 @@ These technologies are part of my journey to becoming a more versatile developer
   </a>
 </p>
 <p align="center">
-  <a href="https://www.hackerrank.com/shadekur_rahman1" target="_blank" style="text-decoration:none;">
+  <a href="https://www.hackerrank.com/shadekur_rahman" target="_blank" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="50" />
     <br>
     <strong>💡 HackerRank Profile</strong>
