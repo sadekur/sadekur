@@ -69,17 +69,6 @@ A **Customer Relationship Management (CRM) plugin** for WordPress that enhances 
 ---
 - 📄 **[Know about my experiences]** [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
 
-<h3 align="left">How to Reach Me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahman_shadekur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahman_shadekur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadekur-rahman-soikut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadekur-rahman-soikut" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sadekur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadekur-rahman" height="30" width="40" /></a>
-<a href="https://fb.com/shadkur.rahman.soikut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadkur.rahman.soikut" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sadekrrahman7893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadekrrahman7893" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shadekur_rahman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadekur_rahman1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user0756cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0756cg" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
@@ -238,9 +227,13 @@ I'm open to collaborations and contributions to open-source projects. If you hav
 
 ## 🌐 Connect With Me
 
+* 💡 **Stack Overflow:** [stackoverflow.com/users/sadekur-rahman](https://stackoverflow.com/users/sadekur-rahman)
+* 🌐 **LinkedIn:** [linkedin.com/in/sadekur-rahman-soikut](https://linkedin.com/in/sadekur-rahman-soikut)
+* 🐦 **Twitter:** [twitter.com/rahman_shadekur](https://twitter.com/rahman_shadekur)
 * 📂 **GitHub:** [github.com/sadekur](https://github.com/sadekur)
 * 💼 **Facebook:** [https://www.facebook.com/shadkur.rahman.soikut/](https://www.facebook.com/shadkur.rahman.soikut/)
+* 📺 YouTube: [https://www.youtube.com/c/sadekrrahman7893](https://www.youtube.com/c/sadekrrahman7893)
+* 📫 **Gmail:** shadekur.rahman60@gmail.com
 * 📍 **Location:** Dhaka, Bangladesh
-* ✉️ **Email:** shadekur.rahman60@gmail.com
 
 **“Engineering scalable plugins and modern web applications.” 🚀**
