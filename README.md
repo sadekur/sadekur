@@ -202,7 +202,6 @@ This role allows me to combine creativity with engineering discipline to ship pr
 
 ## 📊 GitHub Highlights
 
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekur&theme=github_dark)
 
 ---
