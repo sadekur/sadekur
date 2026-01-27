@@ -219,11 +219,11 @@ This role allows me to combine creativity with engineering discipline to ship pr
 
 ---
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
-I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me!
+I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me! -->
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p><br><br>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
 
