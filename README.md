@@ -28,7 +28,7 @@ I believe in **continuous learning**, clean architecture, and writing code that 
 
 | Category | Technologies |
 |--------|-------------|
-| **Frontend** | HTML, CSS, SCSS, Tailwind CSS, JavaScript (ES6+), jQuery |
+| **Frontend** | CSS, SCSS, Tailwind CSS, JavaScript (ES6+), jQuery |
 | **Frameworks** | React.js, Next.js |
 | **Backend** | PHP (OOP), WordPress Core APIs |
 | **Database** | MySQL |
@@ -39,14 +39,34 @@ I believe in **continuous learning**, clean architecture, and writing code that 
 
 ---
 
-## 📦 Projects
+## 📦 Featured Projects
 
-Below are some of the projects I've worked on. Feel free to check them out:
+### 🔹 [EasyCommerce](https://easycommerce.dev/)
 
--   **[Thrail Commerce]**: A custom WordPress plugin built using php, React, Tailwind and the WordPress REST API. ([View Repository](https://github.com/sadekur/thrail-commerce))
--   **[Thrail CRM]**: A WordPress plugin that enhances Customer relationship management capabilities for WordPress. ([View Repository](https://github.com/sadekur/thrail-crm))
--   **[And more....!]**
+A powerful and lightweight **WordPress eCommerce plugin** designed to simplify online store management. EasyCommerce focuses on performance, flexibility, and developer-friendly architecture, making it ideal for modern WordPress-based stores.
 
+I’ve contributed to multiple advanced features including addons architecture, checkout customization, order management, points & rewards system, wishlist, payment gateways, and API-based integrations.
+
+**Technologies:** **PHP (OOP), WordPress Core APIs, React, JavaScript, REST API, MySQL**
+
+### 🔹 [Thrail Commerce](https://github.com/sadekur/thrail-commerce)
+A modern **WordPress eCommerce helper plugin** built using **PHP, React, Tailwind CSS**, and the **WordPress REST API**.  
+Focused on performance, scalability, and clean UX for store owners.
+
+**Technologies:** PHP, WordPress, React, Tailwind, REST API
+
+---
+
+### 🔹 [Thrail CRM](https://github.com/sadekur/thrail-crm)
+A **Customer Relationship Management (CRM) plugin** for WordPress that enhances customer tracking and interaction workflows.
+
+**Technologies:** PHP, WordPress, JavaScript
+
+---
+
+➡️ *More projects available on my GitHub profile.*
+
+---
 - 📄 **[Know about my experiences]** [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
 
 <h3 align="left">How to Reach Me:</h3>
