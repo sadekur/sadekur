@@ -40,7 +40,7 @@ I believe in **continuous learning**, clean architecture, and writing code that 
 
 ## 📦 Featured Projects
 
-### 🔹 EasyCommerce[EasyCommerce](https://easycommerce.dev/)
+### 🔹 [EasyCommerce](https://easycommerce.dev/)
 
 A powerful and lightweight WordPress eCommerce plugin designed to simplify online store management. EasyCommerce focuses on performance, flexibility, and developer-friendly architecture, making it ideal for modern WordPress-based stores.
 
