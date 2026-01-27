@@ -227,26 +227,20 @@ I'm open to collaborations and contributions to open-source projects. If you hav
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
 
-<h3 align="left">Support:</h3>
+---
+
+## ☕ Support My Work
+<a href="https://buymeacoffee.com/sadekur">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" />
+</a>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true" />
-</p>
+* 📂 **GitHub:** [github.com/sadekur](https://github.com/sadekur)
+* 💼 **Facebook:** [https://www.facebook.com/shadkur.rahman.soikut/](https://www.facebook.com/shadkur.rahman.soikut/)
+* 📍 **Location:** Dhaka, Bangladesh
+* ✉️ **Email:** shadekur.rahman60@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadekur" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&layout=compact" />
-</p>
-
----
-
-<p align="center"><a href="https://buymeacoffee.com/sadekur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee sadekur" /></a></p><br><br>
-
-Thank you for visiting my profile! 🌟
+**“Engineering scalable plugins and modern web applications.” 🚀**
