@@ -173,7 +173,6 @@ I enjoy sharpening my problem-solving skills and applying algorithmic thinking t
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
----
 
 ---
 
