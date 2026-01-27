@@ -141,27 +141,35 @@ A **Customer Relationship Management (CRM) plugin** for WordPress that enhances 
   </a>
 </p>
 
-## 🔍 Currently Learning
+---
 
-I'm dedicated to continuously improving my skills and keeping up with the latest industry trends. Here's what I'm currently focused on learning more deeply:
+## 🏆 Problem-Solving & Competitive Programming
 
--   **React and Redux Toolkit**: Enhancing my React applications by efficiently managing state with Redux Toolkit for more predictable state management and optimized rendering.
+<p align="center">
+  <a href="https://www.codewars.com/users/sadekur" target="_blank">
+    <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
--   **Headless CMS with WordPress**: Exploring headless CMS architectures using WordPress to create more flexible and scalable web applications.
+- 💡 **Codewars**
+- 🧩 **LeetCode**
+- 🚀 **HackerRank**
 
--   **Gatsby and GraphQL**: Building modern web applications with Gatsby and GraphQL.
+I enjoy sharpening my problem-solving skills and applying algorithmic thinking to real-world development challenges.
 
--   **Gulp & Webpack**: Building modern web applications with Gulp and Webpack.
+---
 
--   **APIs**: Developing RESTful APIs with WordPress for more efficient data retrieval and manipulation.
 
--   **Vue with WordPress**: Integrating Vue.js into WordPress environments to leverage its reactive components in themes and plugins.
+## 📚 Currently Learning
 
--   **Next.js & Nuxt.js**: Diving into the world of server-side rendering and static site generation with Next.js for React and Nuxt.js for Vue.js to build more performant web applications.
+- **Advanced React & Redux Toolkit**
+- **Headless WordPress Architectures**
+- **Next.js & Nuxt.js (SSR & SSG)**
+- **GraphQL & Gatsby**
+- **Flutter & Dart** (Cross-platform apps)
+- **Python** (Backend & automation)
 
--   **Flutter & Dart**: Learning Flutter for cross-platform mobile application development with Dart as the programming language, aiming to build beautiful and natively compiled applications for mobile, web, and desktop from a single codebase.
-
--   **Python**: Expanding my backend development skills by learning Python, focusing on its powerful libraries for data analysis, machine learning, and web development.
+---
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
