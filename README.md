@@ -1,20 +1,43 @@
 ![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
-<h1 align="center">Hi 👋, I'm Sadekur Rahman</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate WordPress developer with a strong background in web technologies and a deep commitment to building user-focused solutions. Here's a quick overview of my skills and what I love to work on.</h3>
+# 👋 Hi, I'm Sadekur Rahman
+
+## 💻 About Me
+I’m a **WordPress Plugin Developer** with a strong passion for building scalable, user-focused web solutions. I specialize in the **WordPress ecosystem**, blending modern frontend technologies with robust backend architecture to create plugins and applications that solve real-world problems.
+
+Based in **Bangladesh**, I enjoy turning complex ideas into clean, maintainable code—whether that’s crafting custom WordPress plugins, building React-powered admin dashboards, or integrating third-party APIs.
+
+I believe in **continuous learning**, clean architecture, and writing code that other developers actually enjoy working with.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadekur&label=Profile%20views&color=0e75b6&style=flat" alt="sadekur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahman_shadekur" target="blank"><img src="https://img.shields.io/twitter/follow/rahman_shadekur?logo=twitter&style=for-the-badge" alt="rahman_shadekur" /></a> </p>
 
 ## 🚀 Skills
 
--   **Frontend Development**: HTML, CSS, SCSS, Tailwind, JavaScript (ES6+), jQuery, React.js, Next.js
--   **Backend Development**: PHP, Object-Oriented Programming (OOP)
--   **Database Management**: MySQL
--   **CMS**: WordPress (Theme and Plugin Development)
--   **Version Control**: Git, Bitbucket, GitHub
--   **Headless CMS**: Headless WordPress
--   **APIs**: RESTful Services
--   **Tools**: Git, Webpack, Babel, npm
+### 🌟 Key Specializations
+- **WordPress Plugin Development** (Custom, modular & scalable)
+- **Full-Stack Web Development**
+- **React-Driven Admin Interfaces**
+- **Headless WordPress Solutions**
+- **eCommerce & CRM Plugins**
+- **REST API Development**
+
+---
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+|--------|-------------|
+| **Frontend** | HTML, CSS, SCSS, Tailwind CSS, JavaScript (ES6+), jQuery |
+| **Frameworks** | React.js, Next.js |
+| **Backend** | PHP (OOP), WordPress Core APIs |
+| **Database** | MySQL |
+| **CMS** | WordPress (Themes & Plugins) |
+| **APIs** | RESTful APIs |
+| **Tools** | Git, GitHub, Bitbucket, Webpack, Babel, npm |
+| **Environment** | Linux |
+
+---
 
 ## 📦 Projects
 
