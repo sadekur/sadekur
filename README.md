@@ -221,6 +221,6 @@ I'm open to collaborations and contributions to open-source projects. If you hav
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
 
 Thank you for visiting my profile! 🌟
