@@ -167,14 +167,9 @@ A **Customer Relationship Management (CRM) plugin** for WordPress that enhances 
   </a>
 </p>
 
-- 💡 **Codewars**
-- 🧩 **LeetCode**
-- 🚀 **HackerRank**
-
 I enjoy sharpening my problem-solving skills and applying algorithmic thinking to real-world development challenges.
 
 ---
-
 
 ## 📚 Currently Learning
 
@@ -191,15 +186,31 @@ These technologies are part of my journey to becoming a more versatile developer
 
 ---
 
+---
+
 ## 💼 Current Role
 
-I am a **Plugin Developer at Codexpert, Inc.**, where I specialize in crafting innovative WordPress plugins that enhance functionality and user experience. My work is characterized by:
+### 🏢 Plugin Developer — **Progressive Byte Ltd**
 
--   **Plugin Development**: Focused on building robust WordPress plugins using PHP, with a keen eye for leveraging WordPress APIs for optimal performance and compatibility.
--   **Front-End Development**: Implementing cutting-edge front-end technologies including CSS, Tailwind, and React, to create responsive and dynamic user interfaces.
--   **WordPress Development**: Working on WordPress themes and plugins to enhance the user experience and functionality of WordPress.
+At Progressive Byte Ltd, I focus on building high-quality WordPress plugins with an emphasis on:
 
-My role enables me to apply a blend of creativity and technical expertise, driving forward the development of web solutions that cater to the evolving needs of our clients.
+- 🧩 **Plugin Architecture & OOP**
+- ⚡ **Performance-Optimized Code**
+- 🎨 **Modern UI with React & Tailwind**
+- 🔌 **WordPress REST API Integrations**
+- 📦 **Database Architecture & Management**
+
+This role allows me to combine creativity with engineering discipline to ship production-ready solutions.
+
+---
+
+## 🤝 Collaboration & Open Source
+
+- 💬 Open to WordPress, React, and plugin architecture discussions  
+- 🚀 Interested in open-source contributions  
+- 🤝 Always happy to collaborate on meaningful projects  
+
+---
 
 ## 🤝 Contributing
 
