@@ -212,6 +212,13 @@ This role allows me to combine creativity with engineering discipline to ship pr
 
 ---
 
+## 📊 GitHub Highlights
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekur&theme=radical)
+
+---
+
 ## 🤝 Contributing
 
 I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me!
