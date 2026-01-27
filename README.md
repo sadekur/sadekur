@@ -146,8 +146,24 @@ A **Customer Relationship Management (CRM) plugin** for WordPress that enhances 
 ## 🏆 Problem-Solving & Competitive Programming
 
 <p align="center">
-  <a href="https://www.codewars.com/users/sadekur" target="_blank">
-    <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Badge" />
+  <a href="https://www.codewars.com/users/sadekur" target="_blank" style="text-decoration:none;">
+    <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Profile Badge" />
+    <br>
+    <strong>🚀 Codewars Profile</strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.hackerrank.com/shadekur_rahman" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="50" />
+    <br>
+    <strong>💡 HackerRank Profile</strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/user0756cG/" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile Badge" height="50" />
+    <br>
+    <strong>🧩 LeetCode Profile</strong>
   </a>
 </p>
 
@@ -173,28 +189,7 @@ I enjoy sharpening my problem-solving skills and applying algorithmic thinking t
 
 These technologies are part of my journey to becoming a more versatile developer, capable of tackling diverse challenges in web development and beyond.
 
-<h2 align="left">🏆 Problem-Solving Profile</h2>
-<p align="center">
-  <a href="https://www.codewars.com/users/sadekur" target="_blank" style="text-decoration:none;">
-    <img src="https://www.codewars.com/users/sadekur/badges/large" alt="Codewars Profile Badge" />
-    <br>
-    <strong>🚀 Codewars Profile</strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.hackerrank.com/shadekur_rahman" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Profile Badge" height="50" />
-    <br>
-    <strong>💡 HackerRank Profile</strong>
-  </a>
-</p>
-<p align="center">
-  <a href="https://leetcode.com/user0756cG/" target="_blank" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile Badge" height="50" />
-    <br>
-    <strong>🧩 LeetCode Profile</strong>
-  </a>
-</p>
+---
 
 ## 💼 Current Role
 
