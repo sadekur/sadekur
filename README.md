@@ -70,9 +70,9 @@ A **Customer Relationship Management (CRM) plugin** for WordPress that enhances 
 - 📄 **[Know about my experiences]** [https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing](https://drive.google.com/file/d/1X6U2wlR5YTpGtkwwcZlpk5igELwf2Jdb/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex;
-    justify-content: left;
-    gap: 11px;">
+<p align="left" style="display: flex !important;
+    justify-content: left !important;
+    gap: 11px !important;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
   </a>
