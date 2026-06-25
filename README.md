@@ -148,12 +148,13 @@ I enjoy sharpening my problem-solving skills and applying algorithmic thinking t
 
 ## 📚 Currently Learning
 
-- **Advanced React & Redux Toolkit**
-- **Headless WordPress Architectures**
-- **Next.js & Nuxt.js (SSR & SSG)**
-- **GraphQL & Gatsby**
-- **Flutter & Dart** (Cross-platform apps)
-- **Python** (Backend & automation)
+- **Advanced System Design**
+- **Docker & Containerization**
+- **AWS & Cloud Deployment**
+- **Advanced Next.js Architecture**
+- **TypeScript**
+- **AI-Assisted Development Workflows**
+- **Microservices & Scalable Backend Systems**
 
 ---
 
