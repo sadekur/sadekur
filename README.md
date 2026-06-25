@@ -167,13 +167,16 @@ These technologies are part of my journey to becoming a more versatile developer
 
 ### 🏢 Plugin Developer — **Progressive Byte Ltd**
 
-At Progressive Byte Ltd, I focus on building high-quality WordPress plugins with an emphasis on:
+At Progressive Byte, I develop scalable WordPress products and modern full-stack web applications.
 
-- 🧩 **Plugin Architecture & OOP**
-- ⚡ **Performance-Optimized Code**
-- 🎨 **Modern UI with React & Tailwind**
-- 🔌 **WordPress REST API Integrations**
-- 📦 **Database Architecture & Management**
+My responsibilities include:
+- 🧩 **WordPress Plugin Architecture & Development**
+- ⚡ **React.js & Next.js Application Development**
+- 🎨 **Node.js & REST API Development**
+- 🔌 **MongoDB & MySQL Database Design**
+- 📦 **Payment System Integration**
+- 📦 **VPS Deployment & Server Management**
+- 📦 **Performance Optimization & Code Quality**
 
 This role allows me to combine creativity with engineering discipline to ship production-ready solutions.
 
