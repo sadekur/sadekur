@@ -184,9 +184,12 @@ This role allows me to combine creativity with engineering discipline to ship pr
 
 ## 🤝 Collaboration & Open Source
 
-- 💬 Open to WordPress, React, and plugin architecture discussions  
-- 🚀 Interested in open-source contributions  
-- 🤝 Always happy to collaborate on meaningful projects  
+- 💬 Open to WordPress, React.js, Next.js, and MERN Stack collaborations 
+- 🚀 Interested in open-source contributions and developer tooling
+- 🤝 Happy to discuss plugin architecture, APIs, authentication systems, and full-stack development
+- 💬 Always excited to build products that solve real-world problems
+  
+**"Building scalable software, modern web applications, and high-quality WordPress products."** 🚀
 
 ---
 
