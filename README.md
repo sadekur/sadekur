@@ -47,13 +47,31 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 ## 📦 Featured Projects
 
+### 🔹 [Impact Reports](https://impact.humanconcernusa.org/)
+
+A full-stack MERN platform for nonprofit organizations featuring role-based authentication, dashboard systems, report management, REST APIs, and automated CI/CD deployment.
+
+**Technologies:** **React.js, Next.js, Node.js (Express), MongoDB, JWT, GitHub Actions, PM2**
+
+### 🔹 [Human Concern Donation Platform](https://human-concern-frontend.vercel.app/)
+
+A donation and campaign management platform with Stripe integration, user dashboards, admin CMS modules, recurring donations, and API-driven workflows.
+
+**Technologies:** **Next.js, React.js, Stripe, REST APIs, JWT Authentication**
+
+### 🔹 [Legal Pages (Free & Pro)](https://wordpress.org/plugins/legal-pages/)
+
+Re-developed the plugin using a modern API-driven architecture with a React-based admin interface, improving scalability and compliance management.
+
+**Technologies:** **PHP, WordPress, React.js, REST APIs**
+
 ### 🔹 [EasyCommerce](https://easycommerce.dev/)
 
-A powerful and lightweight **WordPress eCommerce plugin** designed to simplify online store management. EasyCommerce focuses on performance, flexibility, and developer-friendly architecture, making it ideal for modern WordPress-based stores.
+A modern WordPress eCommerce solution where I contributed to frontend and backend features, checkout customization, wishlist, points & rewards, payment gateways, and API integrations.
 
 I’ve contributed to multiple advanced features including addons architecture, checkout customization, order management, points & rewards system, wishlist, payment gateways, and API-based integrations.
 
-**Technologies:** **PHP (OOP), WordPress Core APIs, React, JavaScript, REST API, MySQL**
+**Technologies:** **PHP (OOP), WordPress, React.js, REST APIs, MySQL**
 
 ### 🔹 [Thrail Commerce](https://github.com/sadekur/thrail-commerce)
 A modern **WordPress eCommerce helper plugin** built using **PHP, React, Tailwind CSS**, and the **WordPress REST API**.  
