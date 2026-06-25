@@ -34,13 +34,13 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 | Category | Technologies |
 |--------|-------------|
-| **Frontend** | CSS, SCSS, Tailwind CSS, JavaScript (ES6+), jQuery |
-| **Frameworks** | React.js, Next.js |
-| **Backend** | PHP (OOP), WordPress Core APIs |
-| **Database** | MySQL |
-| **CMS** | WordPress (Themes & Plugins) |
-| **APIs** | RESTful APIs |
-| **Tools** | Git, GitHub, Bitbucket, Webpack, Babel, npm |
+| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js |
+| **Backend** | PHP (OOP), Node.js (Express.js) |
+| **Database** | MySQL, MongoDB |
+| **CMS** | WordPress (Plugin & Theme Development), Headless WordPress |
+| **APIs** | REST APIs, JWT Authentication |
+| **DevOps** | GitHub Actions, CI/CD, PM2, VPS Deployment |
+| **Tools** | Git, GitHub, Bitbucket, Postman, Webpack, Babel, npm |
 | **Environment** | Linux |
 
 ---
