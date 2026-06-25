@@ -17,12 +17,16 @@ I am passionate about continuous learning, software architecture, clean code, an
 ## 🚀 Skills
 
 ### 🌟 Key Specializations
-- **WordPress Plugin Development** (Custom, modular & scalable)
 - **Full-Stack Web Development**
-- **React-Driven Admin Interfaces**
+- **WordPress Plugin Development** (Custom, modular & scalable)
+- **React.js & Next.js Applications**
+- **MERN Stack Development**
+- **REST API & Third-Party Integrations**
+- **Authentication & Authorization Systems**
+- **Payment Gateway Integration (as like Stripe, PayPal)**
+- **CI/CD & VPS Deployment**
+- **Dashboard & SaaS Application Development**
 - **Headless WordPress Solutions**
-- **eCommerce & CRM Plugins**
-- **REST API Development**
 
 ---
 
