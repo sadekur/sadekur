@@ -146,13 +146,15 @@ I enjoy sharpening my problem-solving skills and applying algorithmic thinking t
 
 ## 📚 Currently Learning
 
-- **Advanced System Design**
-- **Docker & Containerization**
-- **AWS & Cloud Deployment**
-- **Advanced Next.js Architecture**
-- **TypeScript**
-- **AI-Assisted Development Workflows**
-- **Microservices & Scalable Backend Systems**
+- **🤖 Agentic AI & AI Agents**
+- **🧠 Retrieval-Augmented Generation (RAG)**
+- **🗄️ Vector Databases (Pinecone, Chroma, Qdrant)**
+- **🏗️ Advanced System Design**
+- **☁️ Docker & Containerization**
+- **☁️ AWS & Cloud Deployment**
+- **⚡ Advanced Next.js Architecture**
+- **🔷 TypeScript**
+- **🧩 Microservices & Scalable Backend Systems**
 
 ---
 
