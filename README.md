@@ -2,11 +2,13 @@
 # 👋 Hi, I'm Sadekur Rahman
 
 ## 💻 About Me
-I’m a **WordPress Plugin Developer** with a strong passion for building scalable, user-focused web solutions. I specialize in the **WordPress ecosystem**, blending modern frontend technologies with robust backend architecture to create plugins and applications that solve real-world problems.
+I'm a **Software Engineer** with over **4** years of experience building scalable web applications, WordPress products, and full-stack solutions.
 
-Based in **Bangladesh**, I enjoy turning complex ideas into clean, maintainable code—whether that’s crafting custom WordPress plugins, building React-powered admin dashboards, or integrating third-party APIs.
+My expertise spans **WordPress plugin development, React.js, Next.js, Node.js, MongoDB, and modern API-driven architectures**. I enjoy designing clean, maintainable systems that solve real-world business problems, whether that's a **WordPress plugin, a SaaS platform, an eCommerce solution, or a dashboard-driven web application**.
 
-I believe in **continuous learning**, clean architecture, and writing code that other developers actually enjoy working with.
+Currently, I work at **Progressive Byte**, where I develop both WordPress products and full-stack applications, including MERN-based platforms, payment integrations, authentication systems, admin dashboards, and CI/CD deployment pipelines.
+
+I am passionate about continuous learning, software architecture, clean code, and building products that deliver measurable value to users and businesses.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadekur&label=Profile%20views&color=0e75b6&style=flat" alt="sadekur" /> </p>
 
