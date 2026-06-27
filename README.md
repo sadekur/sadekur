@@ -4,7 +4,7 @@
 ## 💻 About Me
 I'm a **Software Engineer** with over **4** years of experience building scalable web applications, WordPress products, and full-stack solutions.
 
-My expertise spans **WordPress plugin development, React.js, Next.js, Node.js, MongoDB, and modern API-driven architectures**. I enjoy designing clean, maintainable systems that solve real-world business problems, whether that's a **WordPress plugin, a SaaS platform, an eCommerce solution, or a dashboard-driven web application**.
+My expertise spans **WordPress plugin development, MySQL, React.js, Next.js, Node.js, MongoDB, and modern API-driven architectures**. I enjoy designing clean, maintainable systems that solve real-world business problems, whether that's a **WordPress plugin, a SaaS platform, an eCommerce solution, or a dashboard-driven web application**.
 
 Currently, I work at **Progressive Byte**, where I develop both **WordPress** products and full-stack applications, including **MERN**-based platforms, payment integrations, authentication systems, admin dashboards, and CI/CD deployment pipelines.
 
