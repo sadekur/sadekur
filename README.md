@@ -47,10 +47,10 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 ## 📦 Featured Projects
 
-### 🔄 [FlowSync](https://github.com/sadekur/flowSync) — Real-Time Team Collaboration Platform
+### 🔄 [FlowSync](https://flowsync-eight.vercel.app) — Real-Time Team Collaboration Platform
 
 <p align="center">
-  <a href="https://github.com/sadekur/flowSync">
+  <a href="https://flowsync-eight.vercel.app">
     <img src="assets/flowsync-banner.svg" alt="FlowSync — real-time team collaboration: chat, tasks, presence and notifications" width="100%" />
   </a>
 </p>
@@ -58,7 +58,7 @@ I am passionate about continuous learning, software architecture, clean code, an
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
-      <a href="https://github.com/sadekur/flowSync"><img src="assets/flowsync-icon.svg" alt="FlowSync" width="96" /></a>
+      <a href="https://flowsync-eight.vercel.app"><img src="assets/flowsync-icon.svg" alt="FlowSync" width="96" /></a>
     </td>
     <td valign="middle">
       <p>
@@ -71,11 +71,12 @@ I am passionate about continuous learning, software architecture, clean code, an
         authenticates the Socket.IO handshake. Membership is re-checked on <b>every</b> socket write, presence and
         rate limits live in <b>Redis</b>, and the <b>Socket.IO Redis adapter</b> lets any number of backend
         instances run side by side. Covered by <b>113 Vitest tests</b>, including reconnect tests that drive the
-        real Redux store against the real server.
+        real Redux store against the real server. Deployed on <b>Vercel</b> as one project with two services
+        (Next.js + Express/Socket.IO over WebSockets), with Atlas and Upstash Redis in the same region.
       </p>
       <p>
         <a href="https://github.com/sadekur/flowSync"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Live_demo-Coming_soon-6B7280?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://flowsync-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-flowsync--eight.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/Role-Author-10B981?style=for-the-badge" />
       </p>
       <p>
