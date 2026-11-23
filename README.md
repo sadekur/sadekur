@@ -47,6 +47,59 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 ## 📦 Featured Projects
 
+### 🐾 [OH MY DOG](https://ohmydogfinder.com/) — Dog-Friendly Directory, Booking & Adoption Platform
+
+<p align="center">
+  <a href="https://ohmydogfinder.com/">
+    <img src="assets/ohmydog-banner.svg" alt="OH MY DOG — dog-friendly places, services, adoption and bookings on one platform" width="100%" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://ohmydogfinder.com/"><img src="assets/ohmydog-icon.svg" alt="OH MY DOG" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        The <b>unified web platform</b> for OH MY DOG: a dog-friendly directory of <b>verified businesses</b>
+        (grooming, walking, daycare, boarding, vets), <b>pets for sale</b> with health details, and a separate
+        <b>adoption</b> space for verified rescue charities. It is built on the <b>same MongoDB database, auth and
+        user accounts as the mobile app</b>, so one login works everywhere.
+      </p>
+      <p>
+        I'm building it end to end as a <b>single MERN codebase</b>:
+      </p>
+      <ul>
+        <li><b>Directory search</b> with filters and a map (<b>Leaflet</b>).</li>
+        <li><b>Real-availability bookings</b> with <b>Stripe</b>; the card is only charged once the business accepts.</li>
+        <li><b>Membership plans</b>, and listing management with <b>Cloudinary</b> media uploads.</li>
+        <li>Member dashboard and messages, an <b>admin panel</b> with <b>Recharts</b> analytics, and transactional email.</li>
+        <li>Multi-language and multi-currency support.</li>
+      </ul>
+      <p>
+        <a href="https://ohmydogfinder.com/"><img src="https://img.shields.io/badge/Website-ohmydogfinder.com-FACC15?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+        <img src="https://img.shields.io/badge/Role-Full--Stack_Developer-34D399?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Progressive_Byte-Client_project-6B7280?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🔄 [FlowSync](https://flowsync-eight.vercel.app) — Real-Time Team Collaboration Platform
 
 <p align="center">
