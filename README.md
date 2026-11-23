@@ -70,7 +70,7 @@ I am passionate about continuous learning, software architecture, clean code, an
         Auth is <b>JWT in httpOnly cookies</b> with double-submit <b>CSRF</b> protection, and the same cookie
         authenticates the Socket.IO handshake. Membership is re-checked on <b>every</b> socket write, presence and
         rate limits live in <b>Redis</b>, and the <b>Socket.IO Redis adapter</b> lets any number of backend
-        instances run side by side. Covered by <b>113 Vitest tests</b>, including reconnect tests that drive the
+        instances run side by side. Covered by <b>115 Vitest tests</b>, including reconnect tests that drive the
         real Redux store against the real server. Deployed on <b>Vercel</b> as one project with two services
         (Next.js + Express/Socket.IO over WebSockets), with Atlas and Upstash Redis in the same region.
       </p>
