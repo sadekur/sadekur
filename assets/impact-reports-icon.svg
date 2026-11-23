@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Impact Reports">
+  <defs>
+    <linearGradient id="ibg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <!-- userSpaceOnUse: a bounding-box gradient vanishes on straight lines (zero-width bbox). -->
+    <linearGradient id="iac" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="192" y2="192">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="184" height="184" rx="42" fill="url(#ibg)" stroke="url(#iac)" stroke-width="4"/>
+  <g fill="none" stroke="url(#iac)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"><path d="M48 144V48"/><path d="M48 144h96"/><path d="M72 120V96"/><path d="M100 120V72"/><path d="M128 120V84"/></g>
+</svg>

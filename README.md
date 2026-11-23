@@ -47,46 +47,202 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 ## 📦 Featured Projects
 
-### 🔹 [Impact Reports](https://impact.humanconcernusa.org/)
+### 🔄 [FlowSync](https://github.com/sadekur/flowSync) — Real-Time Team Collaboration Platform
 
-A full-stack MERN platform for nonprofit organizations featuring role-based authentication, dashboard systems, report management, REST APIs, and automated CI/CD deployment.
+<p align="center">
+  <a href="https://github.com/sadekur/flowSync">
+    <img src="assets/flowsync-banner.svg" alt="FlowSync — real-time team collaboration: chat, tasks, presence and notifications" width="100%" />
+  </a>
+</p>
 
-**Technologies:** **React.js, Next.js, Node.js (Express), MongoDB, JWT, GitHub Actions, PM2**
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://github.com/sadekur/flowSync"><img src="assets/flowsync-icon.svg" alt="FlowSync" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        A <b>real-time team collaboration platform</b>: workspaces, projects and tasks, with live
+        <b>chat, typing indicators, online presence and notifications</b> on top. Built with
+        <b>Next.js (App Router) + Express + Socket.IO</b>, MongoDB for data and Redis for everything shared.
+      </p>
+      <p>
+        Auth is <b>JWT in httpOnly cookies</b> with double-submit <b>CSRF</b> protection, and the same cookie
+        authenticates the Socket.IO handshake. Membership is re-checked on <b>every</b> socket write, presence and
+        rate limits live in <b>Redis</b>, and the <b>Socket.IO Redis adapter</b> lets any number of backend
+        instances run side by side. Covered by <b>113 Vitest tests</b>, including reconnect tests that drive the
+        real Redux store against the real server.
+      </p>
+      <p>
+        <a href="https://github.com/sadekur/flowSync"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Live_demo-Coming_soon-6B7280?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Role-Author-10B981?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🔹 [Human Concern Donation Platform](https://human-concern-frontend.vercel.app/)
+<br/>
 
-A donation and campaign management platform with Stripe integration, user dashboards, admin CMS modules, recurring donations, and API-driven workflows.
+### 📊 [Impact Reports](https://impact.humanconcernusa.org/) — Reporting Platform for Nonprofits
 
-**Technologies:** **Next.js, React.js, Stripe, REST APIs, JWT Authentication**
+<p align="center">
+  <a href="https://impact.humanconcernusa.org/">
+    <img src="assets/impact-reports-banner.svg" alt="Impact Reports — reporting and dashboards for nonprofits" width="100%" />
+  </a>
+</p>
 
-### 🔹 [Legal Pages (Free & Pro)](https://wordpress.org/plugins/legal-pages/)
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://impact.humanconcernusa.org/"><img src="assets/impact-reports-icon.svg" alt="Impact Reports" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        A full-stack <b>MERN platform for nonprofit organizations</b> featuring <b>role-based authentication</b>,
+        dashboard systems, report management and REST APIs.
+      </p>
+      <p>
+        Shipped with an automated <b>CI/CD pipeline</b> (GitHub Actions) and <b>PM2</b>-managed deployment.
+      </p>
+      <p>
+        <a href="https://impact.humanconcernusa.org/"><img src="https://img.shields.io/badge/Website-impact.humanconcernusa.org-818CF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-Re-developed the plugin using a modern API-driven architecture with a React-based admin interface, improving scalability and compliance management.
+<br/>
 
-**Technologies:** **PHP, WordPress, React.js, REST APIs**
+### ❤️ [Human Concern Donation Platform](https://human-concern-frontend.vercel.app/) — Donations & Campaigns
 
-### 🔹 [EasyCommerce](https://easycommerce.dev/)
+<p align="center">
+  <a href="https://human-concern-frontend.vercel.app/">
+    <img src="assets/human-concern-banner.svg" alt="Human Concern — donation and campaign platform with recurring giving" width="100%" />
+  </a>
+</p>
 
-A modern WordPress eCommerce solution where I contributed to frontend and backend features, checkout customization, wishlist, points & rewards, payment gateways, and API integrations.
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://human-concern-frontend.vercel.app/"><img src="assets/human-concern-icon.svg" alt="Human Concern" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        A <b>donation and campaign management platform</b> with <b>Stripe</b> integration and
+        <b>recurring donations</b>.
+      </p>
+      <p>
+        Includes user dashboards, admin <b>CMS modules</b> and API-driven workflows behind JWT authentication.
+      </p>
+      <p>
+        <a href="https://human-concern-frontend.vercel.app/"><img src="https://img.shields.io/badge/Website-Live_on_Vercel-FB7185?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-I’ve contributed to multiple advanced features including addons architecture, checkout customization, order management, points & rewards system, wishlist, payment gateways, and API-based integrations.
+<br/>
 
-**Technologies:** **PHP (OOP), WordPress, React.js, REST APIs, MySQL**
+### ⚖️ [Legal Pages (Free & Pro)](https://wordpress.org/plugins/legal-pages/) — WordPress Compliance Plugin
 
-### 🔹 [Thrail Commerce](https://github.com/sadekur/thrail-commerce)
-A modern **WordPress eCommerce helper plugin** built using **PHP, React, Tailwind CSS**, and the **WordPress REST API**.  
-Focused on performance, scalability, and clean UX for store owners.
+<p align="center">
+  <a href="https://wordpress.org/plugins/legal-pages/">
+    <img src="assets/legal-pages-banner.svg" alt="Legal Pages — compliance pages for WordPress, rebuilt API-first with a React admin" width="100%" />
+  </a>
+</p>
 
-**Technologies:** PHP, WordPress, React, Tailwind, REST API
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://wordpress.org/plugins/legal-pages/"><img src="assets/legal-pages-icon.svg" alt="Legal Pages" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        <b>Re-developed the plugin</b> using a modern <b>API-driven architecture</b> with a
+        <b>React-based admin interface</b>.
+      </p>
+      <p>
+        The rebuild improved scalability and made compliance-page management easier for site owners.
+      </p>
+      <p>
+        <a href="https://wordpress.org/plugins/legal-pages/"><img src="https://img.shields.io/badge/WordPress.org-legal--pages-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🔹 [Thrail CRM](https://github.com/sadekur/thrail-crm)
-A **Customer Relationship Management (CRM) plugin** for WordPress that enhances customer tracking and interaction workflows.
+### 🛒 [EasyCommerce](https://easycommerce.dev/) — Modern WordPress eCommerce
 
-**Technologies:** PHP, WordPress, JavaScript
+<p align="center">
+  <a href="https://easycommerce.dev/">
+    <img src="assets/easycommerce-banner.svg" alt="EasyCommerce — modern WordPress eCommerce: checkout, rewards, wishlist and payment gateways" width="100%" />
+  </a>
+</p>
 
----
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://easycommerce.dev/"><img src="assets/easycommerce-icon.svg" alt="EasyCommerce" width="96" /></a>
+    </td>
+    <td valign="middle">
+      <p>
+        A modern <b>WordPress eCommerce solution</b> where I contribute to both frontend and backend features.
+      </p>
+      <p>
+        My work includes the <b>addons architecture</b>, <b>checkout customization</b>, order management, a
+        <b>points &amp; rewards system</b>, wishlist, <b>payment gateways</b> and API-based integrations.
+      </p>
+      <p>
+        <a href="https://easycommerce.dev/"><img src="https://img.shields.io/badge/Website-easycommerce.dev-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Role-Contributor-F59E0B?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP_(OOP)-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ➡️ *More projects available on my GitHub profile.*
 
@@ -193,19 +349,23 @@ This role allows me to combine creativity with engineering discipline to ship pr
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub in Numbers
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekur&theme=github_dark)
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadekur&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=sadekur&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=06B6D4&currStreakLabel=10B981" alt="GitHub streak" />
+</p>
 
----
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadekur&theme=github_dark" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadekur&theme=github_dark" alt="Top languages by commit" />
+</p>
 
-<!-- ## 🤝 Contributing
+### 📈 Contribution Activity
 
-I'm open to collaborations and contributions to open-source projects. If you have an idea or project in mind, feel free to contact me! -->
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadekur&show_icons=true&locale=en&layout=compact" alt="sadekur" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekur&show_icons=true&locale=en" alt="sadekur" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekur&theme=github_dark" alt="Contribution activity" />
+</p>
 
 ---
 
