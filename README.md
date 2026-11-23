@@ -34,12 +34,13 @@ I am passionate about continuous learning, software architecture, clean code, an
 
 | Category | Technologies |
 |--------|-------------|
-| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js |
-| **Backend** | PHP (OOP), Node.js (Express.js) |
-| **Database** | MySQL, MongoDB |
+| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit |
+| **Backend** | PHP (OOP), Node.js (Express.js), Socket.IO |
+| **Database** | MySQL, MongoDB (Mongoose), Redis |
 | **CMS** | WordPress (Plugin & Theme Development), Headless WordPress |
-| **APIs** | REST APIs, JWT Authentication |
-| **DevOps** | GitHub Actions, CI/CD, PM2, VPS Deployment |
+| **APIs** | REST APIs, WebSockets, JWT Authentication, Transactional Email (SMTP) |
+| **DevOps** | GitHub Actions, CI/CD, PM2, VPS Deployment, Vercel |
+| **Testing** | Vitest, React Testing Library |
 | **Tools** | Git, GitHub, Bitbucket, Postman, Webpack, Babel, npm |
 | **Environment** | Linux |
 
@@ -121,9 +122,10 @@ I am passionate about continuous learning, software architecture, clean code, an
       </p>
       <p>
         Auth is <b>JWT in httpOnly cookies</b> with double-submit <b>CSRF</b> protection, and the same cookie
-        authenticates the Socket.IO handshake. Membership is re-checked on <b>every</b> socket write, presence and
+        authenticates the Socket.IO handshake. <b>Password reset by email</b> (Nodemailer over Brevo SMTP) uses
+        single-use, hashed, expiring tokens and signs out every session. Membership is re-checked on <b>every</b> socket write, presence and
         rate limits live in <b>Redis</b>, and the <b>Socket.IO Redis adapter</b> lets any number of backend
-        instances run side by side. Covered by <b>115 Vitest tests</b>, including reconnect tests that drive the
+        instances run side by side. Covered by <b>141 Vitest tests</b>, including reconnect tests that drive the
         real Redux store against the real server. Deployed on <b>Vercel</b> as one project with two services
         (Next.js + Express/Socket.IO over WebSockets), with Atlas and Upstash Redis in the same region.
       </p>
@@ -141,6 +143,8 @@ I am passionate about continuous learning, software architecture, clean code, an
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -310,12 +314,15 @@ I am passionate about continuous learning, software architecture, clean code, an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
